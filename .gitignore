@@ -1,0 +1,15 @@
+# Binaries
+/bin/
+*.exe
+ratelimiter
+server
+
+# Go workspace / env
+.env
+*.test
+*.out
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
