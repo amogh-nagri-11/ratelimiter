@@ -1,8 +1,8 @@
-# Binaries
+# Binaries (anchored to repo root so they don't match the cmd/server source dir)
 /bin/
 *.exe
-ratelimiter
-server
+/ratelimiter
+/server
 
 # Go workspace / env
 .env
